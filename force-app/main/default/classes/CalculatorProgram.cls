@@ -9,4 +9,7 @@ public with sharing class CalculatorProgram {
         return a + b;
         
     }
+    public Decimal subtraction(Decimal a, Decimal b){
+        return a - b;
+    }
 }
